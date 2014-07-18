@@ -13,3 +13,18 @@
 {
 	margin-bottom:4px;
 }
+
+.status.hover 
+{
+	background: #F0FAFA;
+}
+
+.status .admin
+{
+	display:none;
+}
+
+.status.hover .admin
+{
+	display:inline;
+}
